@@ -11,6 +11,13 @@ You have to specify both input and output path in the script source like in a ex
 
 ```py
 # Specify the input and output folders
-input_folder = 'C:\\Users\\Szymon\\Desktop\\convert\\toconvert'
-output_folder = 'C:\\Users\\Szymon\\Desktop\\convert\\converted'
+input_folder = 'C:\\Users\\YOU\\Desktop\\convert\\toconvert'
+output_folder = 'C:\\Users\\YOU\\\Desktop\\convert\\converted'
 ```
+
+
+Put your non-PNG files in "toconvert" folder and run the script.
+
+Your converted images will be printed out to your output folder.
+
+
